@@ -1,10 +1,11 @@
 ### Olá! Eu me chamo Douglas. 👋
 
 <div>
-  <a href="https://github.com/douglasdinizkenzie"/>
+  
   <img  height="180em" width="55%" src="https://github-readme-stats.vercel.app/api?username=douglasdinizkenzie&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img align="right" height="180em" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglasdinizkenzie&layout=compact&langs_count=16&theme=dark"/>
 </div>
+<br>
 
   ##
 
@@ -29,7 +30,7 @@
    </div>
     
 
-  <div align="center">
+
   <h1 align="center">Vamos conversar?</h1>
     <a href = "mailto: douglasslycooper@gmail.com">
       <img width="100" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
@@ -37,6 +38,6 @@
     <a href = "https://www.linkedin.com/in/douglas-diniz-/">
       <img width="128" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
-  </div>
+  
 </div>
   
