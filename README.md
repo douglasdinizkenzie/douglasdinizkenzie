@@ -1,11 +1,16 @@
-### Olá! Eu me chamo Douglas. 👋
+### Olá! Eu me chamo Douglas. 👋 <br>  Seja bem vindo 😀
 
 <div>
   
-  <img  height="180em" width="55%" src="https://github-readme-stats.vercel.app/api?username=douglasdinizkenzie&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img align="right" height="180em" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglasdinizkenzie&layout=compact&langs_count=16&theme=dark"/>
+   <a href="https://github.com/douglasdinizkenzie">
+     
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglasdinizkenzie&theme=dark&hide_border=false&&layout=compact"/><br>
+    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=douglasdinizkenzie&show_icons=dark&theme=dark&include_all_commits=true&count_private=true"/>
+       
+     
+   
+  </a>
 </div>
-<br>
 
   ##
 
