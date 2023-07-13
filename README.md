@@ -1,16 +1,6 @@
 ### Olá! Eu me chamo Douglas. 👋 <br>  Seja bem vindo 😀
 
-<div>
-  
-   <a href="https://github.com/douglasdinizkenzie">
-     
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglasdinizkenzie&theme=dark&hide_border=false&&layout=compact"/><br>
-    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=douglasdinizkenzie&show_icons=dark&theme=dark&include_all_commits=true&count_private=true"/>
-       
-     
-   
-  </a>
-</div>
+
 
   ##
 
