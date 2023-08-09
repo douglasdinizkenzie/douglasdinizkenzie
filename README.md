@@ -13,7 +13,6 @@
      <img align="center" height="40" width="50" alt="JS-icon"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
      <img align="center" height="40" width="50" alt="REACT-icon"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg">
     <img align="center" height="40" width="50" alt="TYPESCRIPT-icon"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
-     <img align="center" height="40" width="50" alt="SQLITE-icon"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg">
      <img align="center" height="40" width="50" alt="PYTHON-icon"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
       <img align="center" height="40" width="50" alt="POSTGRE-icon"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg">
     <img align="center" height="40" width="50" alt="NPM-icon"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg">
