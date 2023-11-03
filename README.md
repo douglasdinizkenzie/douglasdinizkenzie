@@ -21,6 +21,7 @@
     <img align="center" height="40" width="50" alt="GIT-icon"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" >
     <img align="center" height="40" width="50" alt="EXPRESS-icon"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" >
      <img align="center" height="40" width="50" alt="DJANGO-icon"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" >
+     <img align="center" height="40" width="50" alt="DJANGO-icon"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" >
    </div>
     
 
